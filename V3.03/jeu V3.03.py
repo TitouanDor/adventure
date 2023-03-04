@@ -175,7 +175,7 @@ def tableau_12():
 #region def_variable
 loop = True
 pos_p = False
-green_key_take = True
+green_key_take = False
 vu = False
 ester_egg = False
 renvoie = False
